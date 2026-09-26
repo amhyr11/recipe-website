@@ -6,7 +6,7 @@ This project introduced me to building a basic multi-page website with HTML, inc
 
 [🧑🏻‍🍳 Live Site Preview!](https://amhyr11.github.io/recipe-website/)
 
-<img src="images/recipe-website-banner-combined.png" alt="Rice Pudding" width="500">
+![Recipe website preview](images/recipe-website-banner-combined.png)
 
 Combined recipe preview banner designed by me.
 
