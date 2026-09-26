@@ -1,4 +1,4 @@
-# Odin Recipes — Recipe Website
+# Recipe Website
 
 My first web development project through [The Odin Project](https://www.theodinproject.com/) Foundations course.
 
